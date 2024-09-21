@@ -1,0 +1,16 @@
+image_size: 224
+image_numbers: 10000
+latent_dim: 50
+data_name: 'imagenet'
+model_name: "resnext101_32x8d"
+epochs: 50
+batch_size: 32
+num_works: 0
+train_dir: ""
+valid_dir: ""
+lr: 0.0001
+epsilon: 0.0314
+system: "linux"
+
+
+
